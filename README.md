@@ -6,6 +6,12 @@ Budget Tracker is a mobile web application where you can manage your budget: you
 
 - Ruby, Rails, PostgreSQL
 
+## Vedio live
+- Vedio: [Loom](https://www.loom.com/share/516b9dba1d7d41caab6da780d53ef2d5)
+
+## Live link
+- Live: [Heroku](https://budget-tra.herokuapp.com/)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
