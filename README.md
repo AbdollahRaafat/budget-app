@@ -55,3 +55,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse's database template.
+
+- Original [design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=) idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella).
+- Hat tip to anyone whose code was used
+- Inspiration
