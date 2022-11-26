@@ -1,1 +1,57 @@
-# budget-app
+# Budget-App
+
+Budget Tracker is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+
+## Built With
+
+- Ruby, Rails, PostgreSQL
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- Ruby runtime environment
+- PostgreSQL
+- Rails
+
+### Setup
+
+- Clone the repository using `git clone git@github.com:amejid/budget-tracker.git`
+- Navigate to the folder using `cd budget-tracker`
+- Use the following commands to
+    - install necessary gems `bundle install`
+    - install necessary javascript packages `npm install`
+    - run the development server `rails server`
+
+### Run tests
+
+To run tests, run the following command:
+
+- Unit tests
+  - `rspec spec/models`
+
+
+- Integration tests
+  - `rspec spec/integration`
+
+## Author
+
+- GitHub: [AbdollahRaafat](https://github.com/AbdollahRaafat)
+- LinkedIn: [AbdollahRaafat](https://www.linkedin.com/in/abdollah-raafat-886059221/)
+- Twitter: [AbdollahRaafat](https://twitter.com/abdollah_raafat)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse's database template.
